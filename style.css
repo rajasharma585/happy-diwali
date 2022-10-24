@@ -14,7 +14,7 @@
 }
 
 .nav {
-    background-image: url("images/backimgdeepak.jpg");
+    background-image: url("img/backimgdeepak.jpg");
     position: sticky;
 }
 
@@ -62,7 +62,7 @@
 }
 
 .gif {
-    background: url("images/patakha-1.gif");
+    background: url("img/patakha-1.gif");
     height: 100%;
     margin: 0;
     padding: 0;
@@ -94,7 +94,7 @@
     margin-top: 70px;
 }
 .patakha-3{
-    background: rgba(0,0,0,0.7) url("images/patakha-3.gif");
+    background: rgba(0,0,0,0.7) url("img/patakha-3.gif");
 }
 .patakha{
     height: 500px;
@@ -110,7 +110,7 @@
 }
 .footer{
     font-family: 'Baloo 2', cursive;
-    background: rgba(0,0,0,0.7) url("images/haap.gif");
+    background: rgba(0,0,0,0.7) url("img/haap.gif");
 
 }
 .footer h1{
